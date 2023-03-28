@@ -1,0 +1,21 @@
+{
+  "name": "csvojsonconvertor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "csv-parse": "^5.3.6",
+    "csvtojson": "^2.0.10",
+    "express": "^4.18.2",
+    "globalthis": "^1.0.3",
+    "pg": "^8.10.0",
+    "sequelize": "^6.30.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Akshay Misal",
+  "license": "ISC"
+}

@@ -1,0 +1,13 @@
+{
+    "development": {
+      "database" : {
+        "username": "postgres",
+        "password": "1234",
+        "database": "csv_to_json",
+        "host": "127.0.0.1",
+        "dialect": "postgres"
+      }
+    } 
+    
+  }
+  
